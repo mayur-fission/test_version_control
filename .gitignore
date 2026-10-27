@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 large_dataset.csv
+.httr-oauth
+.DS_Store
+.quarto
